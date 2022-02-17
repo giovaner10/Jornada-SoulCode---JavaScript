@@ -1,0 +1,1 @@
+Crie um objeto "Usuário" com as propriedades que você desejar. Depois, mostre uma mensagem na tela perguntando quantos usuários  devem ser salvos. Após isso, peça todos os dados necessários para seu objeto usuário e depois o salve em um array. Quando todos os objetos Usuários forem salvos, mostre o valor de cada propriedade do usuário na tela do Browser.
